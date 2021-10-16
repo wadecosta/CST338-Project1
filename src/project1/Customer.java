@@ -12,8 +12,7 @@ public class Customer extends Bank {
 		this.zip = 0;
 		this.ss = null;
 	}
-	
-
+		
 	public Customer(String name, String address, int zip, String ss) {
 		this.name = name;
 		this.address = address;
